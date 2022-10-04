@@ -22,3 +22,4 @@ after_success:
   - docker push frankfoti/multi-nginx
   - docker push frankfoti/multi-server
   - docker push frankfoti/multi-worker
+
